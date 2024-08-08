@@ -8,7 +8,7 @@ We recommend using [Anaconda](https://www.anaconda.com/distribution/) for instal
 ```
 conda create -n py310 python=3.10.12
 conda activate py310  # activate the environment
-pip install matplotlib numpy glob2
+pip install matplotlib numpy glob2 scipy
 ```
 
 ## Result Format
